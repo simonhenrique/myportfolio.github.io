@@ -10,7 +10,7 @@
 > ## *Uso:*
 > - Mostrar projetos;
 > ## *Links:*
-> - deploy:
+> - deploy: https://simonhenrique.github.io/myportfolio.github.io/
 > ## *Autor:*
 > - Simon Henrique
 > - Segue ai o meu Git 😁
